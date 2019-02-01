@@ -1,0 +1,23 @@
+html{
+  background:rgb(227, 227, 227);
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+ background: rgb(227, 227, 227);
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    background: #fff;
+    margin: 0 auto;
+    border: 1px rgba(0,0,0,0.2) solid;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow:0 16px 32px 0 rgba(0,0,0,0.2), 0 12px 40px 0 rgba(0,0,0,0.19);
+    
+  }
+
+
+  
